@@ -1,5 +1,6 @@
 # Text Extractor from toons.
 
+we tried to extract every text from the toons.
 
 ## Takled problems
 
